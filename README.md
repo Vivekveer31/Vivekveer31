@@ -1,86 +1,62 @@
-# Hi there, I'm Vivek Veer! <img src="https://media.giphy.com/media/hvRJCLzdwOFfW/giphy.gif" width="25px">
+# Vivek Veer
+### Software Engineer | Distributed Systems & AI
 
-### 🚀 Full-Stack Developer | Distributed Systems Enthusiast | AI & Agentic Workflows
-
-I am a Computer Science student passionate about building scalable microservices and AI-driven applications. With a strong foundation in competitive programming and a deep interest in distributed architectures, I love solving complex engineering challenges and optimizing system performance.
+A performance-driven Computer Science student focused on architecting scalable microservices and agentic AI systems. Experienced in building production-grade e-commerce and distributed messaging platforms with a deep focus on system reliability and low-latency communication.
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Technical Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Programming Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white) |
+| **Distributed Systems** | ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white) |
+| **Full-Stack Stack** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=vector&logoColor=white) |
+
+---
+
+### 🚀 Engineering Case Studies
+
+#### 01. Scalable Microservices Job Platform
+> **Architecture:** Event-Driven Microservices | **Domain:** FinTech & HR-Tech
+- **Core:** Built a distributed platform handling user onboarding, payments, and AI resume evaluation.
+- **Messaging:** Implemented **Kafka-based** event-driven architecture to decouple asynchronous email and notification workflows.
+- **Reliability:** Integrated **Redis** for rate limiting and high-throughput caching.
+- **Orchestration:** Managed containerized services via **Kubernetes** for seamless scaling.
+- **Tech:** `Node.js`, `TypeScript`, `PostgreSQL`, `Kafka`, `Redis`, `Docker`, `Kubernetes`, `Razorpay`
+
+#### 02. Agentic AI Recruiter
+> **Architecture:** Agentic RAG Pipeline | **Domain:** Artificial Intelligence
+- **Intelligent Matching:** Designed a semantic search pipeline using **BAAI Embeddings** and **Pinecone** vector database for resume-job matching.
+- **Agentic Workflow:** Developed a **LangChain** agent to coordinate parsing, candidate evaluation, and automated shortlisting.
+- **Automation:** Integrated **Google Calendar API** and **SMTP** for fully automated interview scheduling.
+- **Tech:** `Python`, `LangChain`, `Pinecone`, `BAAI`, `Google Calendar API`
+
+#### 03. Real-Time Distributed Chat System
+> **Architecture:** Pub/Sub WebSockets | **Domain:** Communication
+- **Synchronization:** Leveraged **Redis Pub-Sub** for message synchronization across distributed service instances.
+- **Performance:** Validated system stability under high concurrent connections on **AWS**.
+- **Tech:** `Node.js`, `WebSockets`, `Redis`, `Docker`, `AWS`
+
+---
+
+### 🏅 Technical Milestones
+
+- **LeetCode Knight:** Max Rating **1850+** (Top 5% Global). Ranked **559** / 30k+ in competitive contests.
+- **CodeChef:** Global Rank **823** / 27.5k+ participants.
+- **Hackathon Winner:** Secured 1st place in two National Level Hackathons for innovative technical solutions.
+
+---
+
+### 📨 Connect with me
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,c,cpp,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,kafka,rabbitmq,git,github,postman,aws,kubernetes,redis" />
-  </a>
+<a href="https://linkedin.com/in/vivek-veer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:veervivek47@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
+<a href="https://leetcode.com/u/vivekveer31"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a> 
+<a href="https://github.com/Vivekveer31"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-- **Frontend/Backend:** Next.js, React.js, Node.js, Express.js
-- **Cloud & DevOps:** AWS (EC2, ECS, S3, Lambda), Docker, Kubernetes, Kafka, RabbitMQ
-- **Databases:** PostgreSQL, MongoDB, Redis
-- **Core:** DSA, OOP, OS, Distributed Systems
 
----
-
-### 🏆 Competitive Programming & Achievements
-
-<p align="left">
-  <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/LeetCode-1850+-black?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Top%205%25-Global-brightgreen?style=for-the-badge" />
-</p>
-
-- **LeetCode:** Knight (Top 5% globally), Max Rating: **1850+**. Ranked **559** out of 30,000+ in a rated contest.
-- **CodeChef:** Ranked **823** out of 27,500+ participants.
-- **Hackathons:** Winner of two National Level Hackathons.
-
----
-
-### 📁 Featured Projects
-
-#### 🤖 [Agentic AI Recruiter](https://github.com/Vivekveer31)
-- Built an AI-driven recruitment pipeline using **LangChain** and **Pinecone**.
-- Implemented semantic resume matching with **BAAI Embeddings** and automated scheduling via **Google Calendar API**.
-
-#### 🏗️ [Scalable Microservices Job Platform](https://github.com/Vivekveer31)
-- Architected a distributed platform using **Next.js, Node.js, PostgreSQL**, and **Kafka**.
-- Leveraged **Redis** for caching/rate limiting and **Kubernetes** for orchestration.
-- Integrated **Razorpay** for subscription payments.
-
-#### 💬 [Real-Time Chat Microservices](https://github.com/Vivekveer31)
-- Built a low-latency messaging system using **WebSockets** and **Redis Pub/Sub**.
-- Deployed on **AWS** with focus on high concurrency and message synchronization.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekveer31&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Vivek's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekveer31&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Langs" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekveer31&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Let's Connect!
-
-<p align="left">
-  <a href="https://linkedin.com/in/vivek-veer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:veervivek47@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/vivekveer31">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
-</p>
